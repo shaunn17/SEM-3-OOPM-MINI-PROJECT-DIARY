@@ -10,4 +10,4 @@ By referring to them later, they may find help in analyzing their own feelings o
 Some just may want to preserve their experiences and thoughts for posterity.
 The primary goal of this project is to develop a good and easy to use software to overcome the existing problem caused by a manual system.
 
-
+ 
